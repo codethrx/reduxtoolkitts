@@ -1,7 +1,7 @@
 import React from "react";
 
 function Breadcrumbs() {
-  return <div>Breadcrumbs</div>;
+  return <div>Breadcrumbx</div>;
 }
 
 export default Breadcrumbs;
